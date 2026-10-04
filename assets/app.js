@@ -1,6 +1,6 @@
 const CONFIG=Object.assign({
 shopName:"Sri Lakshmi Rice Wholesale",phone:"919999999999",address:"Main Market Road, Your City",
-currency:"₹",demoOwner:"owner@demo.com",demoCustomer:"customer@demo.com",taxRate:0
+currency:"₹",Owner:"udayaanoopmayank@gmail.com",demoCustomer:"customer@demo.com",taxRate:0
 },window.RICE_SHOP_CONFIG||{});
 CONFIG.phone=CONFIG.whatsapp||CONFIG.phone;
 const seedProducts=[
